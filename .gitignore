@@ -4,8 +4,17 @@ teht0/*.user
 teht1/build/
 teht1/*.user
 
+teht1osa2/build/
+teht1osa2/*.user
+
+teht1osa3/build/
+teht1osa3/*.user
+
 teht2/build/
 teht2/*.user
+
+teht2osa2/build/
+teht2osa2/*.user
 
 teht3/build/
 teht3/*.user
